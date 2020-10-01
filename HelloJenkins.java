@@ -1,7 +1,7 @@
 public class HelloJenkins{
     public static void main(String args[]){
         for(int i=0;i<10;i++){
-            System.out.println("Jenkins running .... "+i);
+            System.out.println("Jenkins from git .... "+i);
         }
     }
 }
